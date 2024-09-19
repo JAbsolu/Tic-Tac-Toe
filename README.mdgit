@@ -1,0 +1,1 @@
+# Tic-Tac-Toe initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/JAbsolu/Tic-Tac-Toe.gitgit push -u origin main
